@@ -7,6 +7,7 @@ import Philosophy from '../components/Philosophy';
 import Aesthetic from '../components/Aesthetic';
 import UserExperience from '../components/UserExperience';
 import Outreach from '../components/Outreach';
+import Webcam from '../components/Webcam';
 
 export default function Home() {
   const tabs = [
@@ -33,6 +34,10 @@ export default function Home() {
     {
       label: 'Outreach & Impact',
       content: <Outreach />
+    },
+    {
+      label: 'Webcam',
+      content: <Webcam />
     }
   ];
 
