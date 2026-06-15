@@ -21,7 +21,7 @@
   "homepage": "https://github.com/manny-pi/beforeagi#readme",
   "description": "",
   "dependencies": {
-    "next": "^15.1.8",
+    "next": "^16.2.9",
     "package-lock.json": "^1.0.0",
     "package.json": "^2.0.1",
     "react": "^19.1.0",
