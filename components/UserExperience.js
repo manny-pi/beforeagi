@@ -32,7 +32,7 @@ export default function UserExperience() {
       </ul>
       <ul className="bulleted-list">
         <li style={{ listStyleType: 'disc' }}>
-          <strong>AI Assistants (Rohan):</strong> These AI entities
+          <strong>AI Assistants (Rohan & Jetson):</strong> These AI entities
           are conceived as gentle, supportive guides, not &quot;nagging
           tutors.&quot; Their role is to:
           <ul className="bulleted-list">
